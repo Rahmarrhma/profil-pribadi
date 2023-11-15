@@ -1,0 +1,47 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.jumbotron {
+  min-height: 600px;
+}
+
+.About {
+  background-color: #605e627d;
+  padding-bottom: 300px;
+  padding-top: 100px;
+}
+.profileimage {
+  width: 200px;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 200px;
+  padding-bottom: 200px;
+}
+.profile h2 {
+  color: black;
+}
+.profile p {
+  color: black;
+}
+.Galery {
+  background-color: #605e627d;
+  padding-bottom: 200px;
+  padding-top: 100px;
+}
+.Resume {
+  padding-bottom: 300px;
+  padding-top: 200px;
+}
+.contact a {
+  color: rgb(240, 230, 230);
+  font-size: 30px;
+}
+.footer a {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
